@@ -1,6 +1,5 @@
 <div align="center">
   <a href="https://github.com/Akshay-Arjun/69phisher">
-    <img src="./logo.png" alt="Logo" >
   </a>
 
 <h2 align="center">phisher</h2>
