@@ -3,7 +3,7 @@
 
 ##   69phisher 	: 	Automated Phishing Tool
 ##   Author 	: 	ImUpXD 
-##   Version 	: 	1
+##   Version 	: 	1.0
 ##   Github 	: 	https://github.com/ImUpXD
 
 ## If you Copy Then Give the credits :)
@@ -74,7 +74,7 @@ ${ORANGE}| '_ \ | '_ \ | |/ __|| '_ \  / _ \| '__|
 ${ORANGE}| |_) || | | || |\__ \| | | ||  __/| |   	
 ${ORANGE}| .__/ |_| |_||_||___/|_| |_| \___||_|   
 ${ORANGE}| |                                      
-${ORANGE}|_|   ${RED}Version : 1
+${ORANGE}|_|   ${RED}Version : 1.0
               
 
 ${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by ImUpXD ${WHITE}
@@ -90,7 +90,7 @@ banner_small() {
 			/,    /`             \  __  / 
 			\\"--\\              (_/ (_/  		
 		
-		Version : 1
+		Version : 1.0
 	EOF
 }
 
@@ -184,13 +184,12 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN}Author   ${RED}:  ${ORANGE}Akshay Arjun
-		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/Akshay-Arjun
-		${GREEN}Social   ${RED}:  ${CYAN}https://bit.ly/AKSHAYARJUN
+		${GREEN}Author   ${RED}:  ${ORANGE}ImUpXD
+		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/ImUpXD
 		${GREEN}Version  ${RED}:  ${ORANGE}1.0
 
-		${REDBG}${WHITE} Thanks : htr-tech,Adi1090x,MoisesTapia,ThelinuxChoice
-								  DarkSecDevelopers,Mustakim Ahmed,1RaY-1 ${RESETBG}
+		${REDBG}${WHITE} Thanks : ImUpXD
+								 ${RESETBG}
 
 		${RED}Warning:${WHITE}
 		${CYAN}This Tool is made for educational purpose only ${RED}!${WHITE}
@@ -268,7 +267,7 @@ capture_data() {
 
 
 ## DON'T COPY PASTE WITHOUT CREDIT DUDE :')
-## Credits HTR-TECH
+## Credits ImUpXD
 
 ## Start Cloudflared
 start_cloudflared() { 
