@@ -67,17 +67,17 @@ kill_pid() {
 banner() {
 	cat <<- EOF
 		
-${ORANGE}   __    ___          _      _       _                 
-${ORANGE}  / /   / _ \        | |    (_)     | |                      
-${ORANGE} / /_  | (_) | _ __  | |__   _  ___ | |__    ___  _ __ 
-${ORANGE}| '_ \  \__, || '_ \ | '_ \ | |/ __|| '_ \  / _ \| '__|		
-${ORANGE}| (_) |   / / | |_) || | | || |\__ \| | | ||  __/| |   	
-${ORANGE} \___/   /_/  | .__/ |_| |_||_||___/|_| |_| \___||_|   
+${ORANGE}        _      _       _                 
+${ORANGE}       | |    (_)     | |                      
+${ORANGE} _ __  | |__   _  ___ | |__    ___  _ __ 
+${ORANGE}| '_ \ | '_ \ | |/ __|| '_ \  / _ \| '__|		
+${ORANGE}| |_) || | | || |\__ \| | | ||  __/| |   	
+${ORANGE}| .__/ |_| |_||_||___/|_| |_| \___||_|   
 ${ORANGE}              | |                                      
-${ORANGE}              |_|   ${RED}Version : 1.2
+${ORANGE}              |_|   ${RED}Version : 1
               
 
-${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Akshay-Arjun ${WHITE}
+${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by ImUpXD ${WHITE}
 EOF
 }
         
