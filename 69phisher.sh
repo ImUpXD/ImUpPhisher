@@ -73,8 +73,8 @@ ${ORANGE} _ __  | |__   _  ___ | |__    ___  _ __
 ${ORANGE}| '_ \ | '_ \ | |/ __|| '_ \  / _ \| '__|		
 ${ORANGE}| |_) || | | || |\__ \| | | ||  __/| |   	
 ${ORANGE}| .__/ |_| |_||_||___/|_| |_| \___||_|   
-${ORANGE}              | |                                      
-${ORANGE}              |_|   ${RED}Version : 1
+${ORANGE}| |                                      
+${ORANGE}|_|   ${RED}Version : 1
               
 
 ${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by ImUpXD ${WHITE}
