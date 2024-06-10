@@ -30,14 +30,14 @@
 
 ##### Just, Clone this repository -
 ```sh
-$ git clone https://github.com/Akshay-Arjun/69phisher.git
+$ https://github.com/ImUpXD/ImUpPhisher.git
 ```
 
 ##### Change to cloned directory -
 ```sh
-$ cd 69phisher
-$ chmod 777 69phisher.sh
-$ bash 69phisher.sh
+$ cd phisher
+$ chmod 777 phisher.sh
+$ bash phisher.sh
 ```
 - ### Dependencies
 
@@ -52,22 +52,7 @@ $ bash 69phisher.sh
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
 ### Special Thanks :
 
-- [**htr-tech**](https://github.com/htr-tech)
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Akshay-Arjun/69phisher&type=Date)](https://star-history.com/#Akshay-Arjun/69phisher&Date)
-
-### Disclaimer
-
-<i>Any actions and or activities related to <b>69phisher(from zphisher)</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
-
-<b>This toolkit contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
-
-<b>This Tool is made for educational purposes only</b>. Do not attempt to violate the law with anything contained here. <b>If this is your intention, then Get the hell out of here</b>!
-
-It only demonstrates "how phishing works". <b>You shall not misuse the information to gain unauthorized access to someones social media</b>. However you may try out this at your own risk.</i>
-
-##
 
 
