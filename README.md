@@ -50,7 +50,7 @@ $ bash phisher.sh
 > All the dependencies will be installed automatically when you run `69phisher` for the first time.
 
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
-### Special Thanks :
+
 
 
 
