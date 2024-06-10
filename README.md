@@ -11,8 +11,7 @@
 <br />
 
 
-### To do :
-Add Browser in the browser mode. Learn more about BITB attack https://www.makeuseof.com/what-is-browser-in-the-browser-attack/ and https://github.com/mrd0x/BITB .
+
 
 ### Features
 
