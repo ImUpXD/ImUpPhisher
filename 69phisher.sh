@@ -2,15 +2,9 @@
 
 
 ##   69phisher 	: 	Automated Phishing Tool
-##   Author 	: 	Akshay 
-##   Version 	: 	1.2
-##   Github 	: 	https://github.com/Akshay-Arjun
-## Modified version of :
-##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	TAHMID RAYAT 
-##   Version 	: 	2.2
-##   Github 	: 	https://github.com/htr-tech  
-
+##   Author 	: 	ImUpXD 
+##   Version 	: 	1
+##   Github 	: 	https://github.com/ImUpXD
 
 ## If you Copy Then Give the credits :)
 
