@@ -5,15 +5,7 @@
 <h2 align="center">phisher</h2>
 
   <p><i>A beginners friendly, Automated phishing tool with 30+ templates.</i></p>
-  <p><i> Update V1.2 : Airbnb phishing created & added with premium design >_< </i></p>
-  <p align="center">
-    <a href="https://github.com/Akshay-Arjun/69phisher/issues/new?assignees=&labels=bug&title=Report Bug">Report Bug</a>
-    &nbsp;·&nbsp;
-    <a href="https://github.com/Akshay-Arjun/69phisher/issues/new?assignees=&labels=&template=feature_request.md&title=">Request Feature</a>
-  </p>
-  <a href="https://github.com/Akshay-Arjun/69phisher/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Akshay-Arjun/69phisher">
-  <a href="https://github.com/Akshay-Arjun/69phisher/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Akshay-Arjun/69phisher"></a>
-  <a href="https://github.com/Akshay-Arjun/69phisher/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Akshay-Arjun/69phisher"></a>
+  <p><i> Update V1.0 : Airbnb phishing created & added with premium design >_< </i></p>
   <br/>
 </div>
 <br />
