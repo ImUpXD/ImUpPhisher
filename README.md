@@ -3,7 +3,7 @@
     <img src="./logo.png" alt="Logo" >
   </a>
 
-<h2 align="center">69phisher</h2>
+<h2 align="center">phisher</h2>
 
   <p><i>A beginners friendly, Automated phishing tool with 30+ templates.</i></p>
   <p><i> Update V1.2 : Airbnb phishing created & added with premium design >_< </i></p>
