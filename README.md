@@ -30,7 +30,7 @@
 
 ##### Just, Clone this repository -
 ```sh
-$ https://github.com/ImUpXD/ImUpPhisher.git
+$ git clone https://github.com/ImUpXD/ImUpPhisher.git
 ```
 
 ##### Change to cloned directory -
