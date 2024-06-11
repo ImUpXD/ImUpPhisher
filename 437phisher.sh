@@ -31,12 +31,12 @@ fi
 
 ## Script termination
 exit_on_signal_SIGINT() {
-    { printf "\n\n%s\n\n" "${RED}[${BLUE}!${RED}]${RED} Program Interrupted.(use the command (bash 437phisher.sh) to start up 437Phisher again!)" 2>&1; reset_color; }
+    { printf "\n\n%s\n\n" "${RED}[${BLUE}!${RED}]${RED} Program Interrupted.(use the command (bash ImUpPhisher.sh) to start up ImUpPhisher again!)" 2>&1; reset_color; }
     exit 0
 }
 
 exit_on_signal_SIGTERM() {
-    { printf "\n\n%s\n\n" "${RED}[${BLUE}!${RED}]${RED} Program Terminated. Thank you for using & Happy Hacking!(use the command (bash 437phisher.sh) to start up 437Phisher again!)" 2>&1; reset_color; }
+    { printf "\n\n%s\n\n" "${RED}[${BLUE}!${RED}]${RED} Program Terminated. Thank you for using & Happy Hacking!(use the command (bash ImUpPhisher.sh) to start up ImUpPhisher again!)" 2>&1; reset_color; }
     exit 0
 }
 
@@ -75,7 +75,7 @@ ${CYAN} ${RED}Version : 1.0	${MAGENTA}Etanie is Beautiful
 
 ${RED}[${MAGENTA}-${RED}]${CYAN} The Title Will ONLY DISPLAY PROPERLY If The Screen Is Turned HORZONTALLY!!! ${WHITE}
 
-${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Render ${WHITE}
+${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by ImUpXD ${WHITE}
 EOF
 }
         
@@ -88,7 +88,7 @@ banner_small() {
 		| |    | |  | || |   `-. N ,-' | |    | |  | || |    
 		| |___ | |__| || |___  |||||   | |___ | |__| || |___ 
 		|_____| \____/ |_____| `---'   |_____| \____/ |_____|
-		437Phisher----Respect Etanie----Version : 1.0
+		ImUpPhisher----Respect ImUpXD----Version : 1.0
 	EOF
 }
 
@@ -183,13 +183,12 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${MAGENTA}Author   ${RED}:  ${ORANGE}RenderBolt
-		${MAGENTA}Github   ${RED}:  ${CYAN}https://github.com/RenderBolt96
-		${MAGENTA}Social   ${RED}:  ${CYAN}https://bit.ly/AKSHAYARJUN
+		${MAGENTA}Author   ${RED}:  ${ORANGE}ImUpXD
+		${MAGENTA}Github   ${RED}:  ${CYAN}https://github.com/ImUpXD
 		${MAGENTA}Version  ${RED}:  ${ORANGE}1.0
 
-		${REDBG}${WHITE} Thanks : htr-tech,Adi1090x,MoisesTapia,ThelinuxChoice
-								  DarkSecDevelopers,Mustakim Ahmed,1RaY-1 ${RESETBG}
+		${REDBG}${WHITE} Thanks : ImUpXD
+								   ${RESETBG}
 
 		${RED}Warning:${WHITE}
 		${CYAN}This Tool is made for educational purpose only ${RED}!${WHITE}
