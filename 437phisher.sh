@@ -1,17 +1,10 @@
 #!/bin/bash
 
-##   437phisher 	: 	Automated Phishing Tool+
-##   Author 	: 	RenderBolt
+##   ImUpPhisher 	: 	Automated Phishing Tool+
+##   Author 	: 	ImUpXD
 ##   Version 	: 	1.0
-##   Github 	: 	https://github.com/RenderBolt96
-## Modified version of :
-##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	Akshay-Arjun 
-##   Version 	: 	1.2
-##   Github 	: 	https://github.com/Akshay-Arjun  
+##   Github 	: 	https://github.com/ImUpXD
 
-
-## If you Copy Then Give the credits :)
 
 
 
