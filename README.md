@@ -36,7 +36,7 @@ apt upgrade -y; pkg install php -y; pkg install curl -y; pkg install wget -y; pk
 <h2 align="center">Startup Command After Installation Done</h2>
 
 ```sh
-cd 437Phisher; bash 437phisher.sh
+cd ImUpPhisher; bash ImUpPhisher.sh
 ```
 
 #### (only have to do this command from now on after you do the Installation once)
@@ -54,14 +54,7 @@ cd 437Phisher; bash 437phisher.sh
 
 <h2 align="center">Screenshots</h2>
 
-#### Main Menu
-![image](Screenshots/main-menu(SS).png)
 
-#### Share the Generated Link(s) and Grab Details:
-![image](Screenshots/gen.-links-2-share(SS).png)
-
-#### Grabbed Details:
-![image](Screenshots/grabbed-details(SS).png)
 
 
 
