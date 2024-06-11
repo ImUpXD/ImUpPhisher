@@ -64,18 +64,18 @@ kill_pid() {
 ## Banner
 banner() {
 	cat <<- EOF
-	 _____          _   _      ______ _     _     _               	
-${CYAN} |_   _|        | | | |     | ___ \ |   (_)   | |                           
-${CYAN}   | | _ __ ___ | | | |_ __ | |_/ / |__  _ ___| |__   ___ _ __              
+	          	
+${CYAN}  _____          _   _      ______ _     _     _              
+${CYAN} |_   _|        | | | |     | ___ \ |   (_)   | |                        
+${CYAN}   | | _ __ ___ | | | |_ __ | |_/ / |__  _ ___| |__   ___ _ __ 
 ${CYAN}   | || '_ ` _ \| | | | '_ \|  __/| '_ \| / __| '_ \ / _ \ '__|
-${CYAN}   | || | | | | | |_| | |_) | |   | | | | \__ \ | | |  __/ |
-${CYAN}  \___/_| |_| |_|\___/| .__/\_|   |_| |_|_|___/_| |_|\___|_|     	
-${CYAN}                    
-${CYAN} ${RED}Version : 1.0	${MAGENTA}Etanie is Beautiful
+${CYAN}   | || | | | | | |_| | |_) | |   | | | | \__ \ | | |  __/ |    	
+${CYAN}  \___/_| |_| |_|\___/| .__/\_|   |_| |_|_|___/_| |_|\___|_|                     
+${CYAN} ${RED}Version : 1.0	ImUpXD is Beautiful
 
-${RED}[${MAGENTA}-${RED}]${CYAN} The Title Will ONLY DISPLAY PROPERLY If The Screen Is Turned HORZONTALLY!!! ${WHITE}
+The Title Will ONLY DISPLAY PROPERLY If The Screen Is Turned HORZONTALLY!!! 
 
-${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by ImUpXD ${WHITE}
+ Tool Created by ImUpXD
 EOF
 }
         
