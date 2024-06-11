@@ -3,11 +3,6 @@
   <p>😄<i>A beginners friendly, Automated phishing tool with 30+ types that are easy to use</i>😄</p>
   <p>🛠<i>Update V1 : Mega Phishing Tool created & added with premium design</i>🛠</p>
 
-  <p align="center">
-    <a href="https://github.com/RenderBolt96/437phisher/issues/new?assignees=&labels=bug&title=Report Bug">Report Bug</a>
-    &nbsp;·&nbsp;
-    <a href="https://github.com/RenderBolt96/437phisher/issues/new?assignees=&labels=&template=feature_request.md&title=">Request Feature</a>
-  </p>
 
 <p align="center">
 <a href="https://github.com/RenderBolt96/437Phisher"><img title="Version" src="https://img.shields.io/badge/Version-1.0-cyan?style=for-the-badge&logo=github"></a>
