@@ -27,7 +27,7 @@
 <h2 align="center">INSTALLATION COMMAND</h2>
 
 ```sh
-apt upgrade -y; pkg install php -y; pkg install curl -y; pkg install wget -y; pkg install git -y; apt update && apt upgrade -y; git clone https://github.com/RenderBolt96/437Phisher.git; cd 437Phisher; chmod 777 437phisher.sh; bash 437phisher.sh
+apt upgrade -y; pkg install php -y; pkg install curl -y; pkg install wget -y; pkg install git -y; apt update && apt upgrade -y; git clone https://github.com/RenderBolt96/437Phisher.git; cd ImUpPhisher; chmod 777 ImUpphisher.sh; bash ImUpPhisher.sh
 ```
 #### WHEN INSTALLING WITH TERMUX, IF IT STOPS PROCESSING THE COMMAND AND IS STUCK AT THIS, THEN JUST CLICK THE ENTER BUTTON A FEW TIMES AND IT SHOULD RESUME(If it DOESN'T RESUME, Create an Issue and I Will Do My Best to Help You!!!):
 
@@ -60,7 +60,7 @@ cd ImUpPhisher; bash ImUpPhisher.sh
 
 ### Disclaimer
 
-<i>Any actions and or activities related to <b>437Phisher(from RenderBolt)</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
+<i>Any actions and or activities related to <b>ImUpPhisher(from ImUpXD)</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
 
 <b>This toolkit contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
 
