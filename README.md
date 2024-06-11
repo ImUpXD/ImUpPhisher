@@ -1,8 +1,3 @@
-<div align="center">
-  <a href="https://github.com/RenderBolt96/437Phisher">
-    <img src="./logo.png" alt="Logo" >
-  </a>
-
 <h2 align="center">437Phisher</h2>
 
   <p>😄<i>A beginners friendly, Automated phishing tool with 30+ types that are easy to use</i>😄</p>
