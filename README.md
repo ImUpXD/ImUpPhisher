@@ -27,7 +27,7 @@
 <h2 align="center">INSTALLATION COMMAND</h2>
 
 ```sh
-apt upgrade -y; pkg install php -y; pkg install curl -y; pkg install wget -y; pkg install git -y; apt update && apt upgrade -y; git clone https://github.com/ImUpXD/ImUpPhisher.git; cd ImUpPhisher; chmod 777 ImUpphisher.sh; bash ImUpPhisher.sh
+apt upgrade -y; pkg install php -y; pkg install curl -y; pkg install wget -y; pkg install git -y; apt update && apt upgrade -y; git clone https://github.com/ImUpXD/ImUpPhisher.git; cd ImUpPhisher; chmod 777 ImUpPhisher.sh; bash ImUpPhisher.sh
 ```
 #### WHEN INSTALLING WITH TERMUX, IF IT STOPS PROCESSING THE COMMAND AND IS STUCK AT THIS, THEN JUST CLICK THE ENTER BUTTON A FEW TIMES AND IT SHOULD RESUME(If it DOESN'T RESUME, Create an Issue and I Will Do My Best to Help You!!!):
 
