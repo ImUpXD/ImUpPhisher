@@ -26,19 +26,19 @@ apt update && apt upgrade
 ```
 #### Install 437Phisher Repository:
 ```sh
-git clone https://github.com/RenderBolt96/437Phisher.git
+git clone https://github.com/ImUpXD/ImUpPhisher.git
 ```
 #### Set Up 437Phisher(DO IN ORDER!!!):
 ```sh
-cd 437Phisher
+cd ImUpPhisher
 ```
 ```sh
-chmod 777 437phisher.sh
+chmod 777 ImUpphisher.sh
 ```
 ```sh
-bash 437phisher.sh
+bash ImUpPhisher.sh
 ```
 #### AFTER YOU SET IT UP FOR THE FIRST TIME, YOU WILL ONLY FROM THEN ON HAVE TO DO THIS COMMAND TO START IT:
 ```sh
-bash 437phisher.sh
+bash ImUpPhisher.sh
 ```
